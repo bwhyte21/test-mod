@@ -1,0 +1,10 @@
+{
+  "name": "bwhyte21/test-mod",
+  "version": "1.0.0",
+  "main": "test.js",
+  "description": "a simple test.",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ]
+}
